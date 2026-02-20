@@ -4,9 +4,10 @@
 [Tumblr ^w^](https://treepilled.tumblr.com/)
 [Prns.cc !](https://pronouns.cc/@sprinkleshowerr)
 [Ata !](https://glitterpooll.atabook.org/)
-<p align="center">Wip again uggh
+![](https://komarev.com/ghpvc/?username=ttisha&label=Stalkers0_o&color=00F2FF)
+<p align="center">Wip again ugghh
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plwpa3cvuyr2zhzcsk22fgyzcy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
-</p>
+</p>!
