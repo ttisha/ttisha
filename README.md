@@ -13,7 +13,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We’re+friends+here,+right+?;Friend.+.+.+?)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We’re+friends+here,+right+?;Friend.+.+.+?&color=2ECC71)](https://git.io/typing-svg)
+
 
 
 Wip
