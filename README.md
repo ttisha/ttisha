@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=ttisha&label=Profile+Views&color=1183C2)
+![](https://komarev.com/ghpvc/?username=ttisha&label=Profile+views&color=1183C2)
 
 
 
