@@ -9,6 +9,10 @@
 
 
 
+[AtaBook](https://glitterpooll.atabook.org/)
 
+[Prns.cc](https://pronouns.cc/@sprinkleshowerr)
+
+[Tumblr](https://treepilled.tumblr.com/)
 
 REDOING EVERYTHNG HERE OHMYFDO
