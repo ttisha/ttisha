@@ -11,7 +11,7 @@
 ![IMG_2374](https://github.com/user-attachments/assets/711d2752-822b-4d16-a629-910622827e85)
 ![IMG_2372](https://github.com/user-attachments/assets/78566617-fd5c-4158-a606-4795abfa2537)
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31plwpa3cvuyr2zhzcsk22fgyzcy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=ff16c0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
