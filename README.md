@@ -3,6 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=ttisha&label=cleaners+𝜗ৎ&color=5AE9FF" alt="ttisha" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Narrow&size=30&pause=1000&color=9BEAF7&center=true&width=435&lines=%E2%80%9C+Not+a+stain+in+sight!+%E2%80%9C)](https://git.io/typing-svg)
+
+
 
 
 
@@ -20,6 +23,7 @@
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31plwpa3cvuyr2zhzcsk22fgyzcy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=5AE9FF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <p align="center"> redoing everything </p>
 
