@@ -22,7 +22,7 @@
   <a href="https://spacehey.com/treepilledd">spacehey</a>
 </p>
 <p align="center">
-  <a href="https://treepilled.tumblr.com/">tumblr</a>
+  <a href="https://en.pronouns.page/@ttreepilledd">other prns</a>
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31plwpa3cvuyr2zhzcsk22fgyzcy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=5AE9FF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
