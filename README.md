@@ -16,7 +16,7 @@
   <a href="https://glitterpooll.atabook.org/">ata</a>
 </p>
 <p align="center">
-  <a href="https://pronouns.cc/@literallegend">prns</a>
+  <a href="https://pronouns.cc/@tissuebox">prns</a>
 </p>
 <p align="center">
   <a href="https://spacehey.com/treepilledd">spacehey</a>
