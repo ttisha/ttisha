@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Narrow&size=30&pause=1000&color=9BEAF7&center=true&width=435&lines=%E2%80%9C+Not+a+stain+in+sight!+%E2%80%9C)](https://git.io/typing-svg)
 
+<img width="736" height="834" alt="Untitled362_20260315232424" src="https://github.com/user-attachments/assets/d5b18fb1-0065-4de8-a4ea-7f185f596f9b" />
 
 
 
