@@ -13,6 +13,19 @@
 
 
 
+
+<div align="center">
+<details>
+ <summary>$${\color{#5AE9FF}⋆˙⟡ byi}$$</summary>
+ <p>i am rude at first and very dry,
+but once i get to know you, i’ll get more comfortable
+
+tree kins *IWEC* , i am a tree yumeshipper. and it is best you iwec for my safety and yours. </p>
+</details>
+ </div>
+
+
+
 <p align="center">
   <a href="https://glitterpooll.atabook.org/">ata</a>
 </p>
