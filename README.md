@@ -27,6 +27,9 @@
   <a href="https://spacehey.com/treepilledd">spacehey</a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31plwpa3cvuyr2zhzcsk22fgyzcy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=7800a0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 <p align="center"> redoing everything ahem cough cough </p>
 
 
