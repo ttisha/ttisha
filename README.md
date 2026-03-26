@@ -27,7 +27,20 @@
   <a href="https://spacehey.com/treepilledd">spacehey</a>
 </p>
 
+<div align="center">
+<details>
+ <summary>$${\color{#873CA2}b}$$</summary>
+ <p>im very dry at first and a bit rude , but once i get comfy wit u I’ll be more active and may speak in all caps
+
+tree kins *IWEC* , I am a tree yumeshipper and it is best for you to iwec for my safety and yours , since i obsess over him a lot.</p>
+</details>
+ </div>
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31plwpa3cvuyr2zhzcsk22fgyzcy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=7800a0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 <p align="center"> redoing everything ahem cough cough </p>
